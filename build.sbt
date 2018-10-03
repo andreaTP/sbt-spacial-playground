@@ -1,6 +1,6 @@
 
 lazy val commonSettings = Seq(
-  organization := "org.akka-js"
+  organization := "org.something"
 )
 
 lazy val core = project.in(file("core"))
